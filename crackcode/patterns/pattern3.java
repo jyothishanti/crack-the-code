@@ -14,7 +14,7 @@ public class Main
 	}
 }
 
-
+or
 
 import java.util.*;
 public class Main
