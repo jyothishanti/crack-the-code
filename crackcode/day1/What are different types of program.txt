@@ -1,0 +1,21 @@
+What are different types of programming languages?
+
+
+1.High-Level Languages:
+
+      High-level languages are designed to be easily understood by humans.
+      They allow programmers to write code that is closer to natural language.
+      Examples of high-level languages include Python, Java, C++, and JavaScript.
+
+2.Low-Level Languages:
+      Low-level languages are divided into two types:
+         a.Machine Language: 
+              Machine language consists of binary code (0s and 1s) that directly controls the computer's hardware. 
+         b.Assembly Language:
+              Assembly language uses mnemonics (abbreviated instructions) to represent machine language instructions, making it easier for humans to read and write compared to machine code.
+
+3.Middle-Level Languages:
+
+         Middle-level languages, also known as intermediate-level languages, bridge the gap between low-level and high-level languages.
+         C is a popular example of a middle-level language. It's often used for system programming and building software that interacts closely with hardware, but it's still readable and 
+         writable by humans without requiring a deep understanding of computer architecture like low-level languages do.        
